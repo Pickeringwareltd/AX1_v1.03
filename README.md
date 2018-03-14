@@ -1,7 +1,9 @@
 # AX1
 AX1 is a capital appreciation mining token on the ethereum network, the token sale date is to be confirmed on the ax1.io website. 
 
-These contracts have been produced by Pickeringware ltd and various open-source companies where noted. 
+These contracts have been produced by Pickeringware ltd and various open-source companies where noted.  
+
+These contracts have successfully passed a security audit ran by BigBreak101, the report can be found here: https://bigbreak101.com/2018/03/13/audit-report-ax1-io/
 
 The token sale includes: 
   - ERC-20 compliant tokens
